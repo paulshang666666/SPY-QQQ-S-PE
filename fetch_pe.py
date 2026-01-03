@@ -1,4 +1,3 @@
-run_ts_utc,asof_date_ny,symbol,trailing_pe,forward_pe
 from __future__ import annotations
 
 import os
